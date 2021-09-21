@@ -1,2 +1,2 @@
 # Imersao-Dev
-Semana da Imersão Dev da Alura.
+Imersão Dev da Alura.
